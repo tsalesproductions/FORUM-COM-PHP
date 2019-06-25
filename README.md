@@ -22,9 +22,13 @@ Estou lançando mais um projeto, cujo foi meu primeiro fórum, depois de muito t
 4º -> Dentro do phpmyadmin localizar no meno "Importar" e selecionar o forum.sql
 Após só clicar em executar que ele irá instalar as querys.
 
+<hr>
+
 ### DADOS PARA ACESSO AOS PAINEIS:
 -> Login: admin<br>
 -> Senha: admin
+
+<hr>
 
 <div align="center">FAÇA BOM USO</div>
 
