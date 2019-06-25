@@ -1,0 +1,1 @@
+<?php $forum = new forum($con); $forum->deleta_mensagem($explode['1']);?>

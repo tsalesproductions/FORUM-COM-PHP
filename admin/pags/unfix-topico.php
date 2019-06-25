@@ -1,0 +1,1 @@
+<?php $admcp = new admcp($con); $admcp->unfix_topico($explode['1']);?>

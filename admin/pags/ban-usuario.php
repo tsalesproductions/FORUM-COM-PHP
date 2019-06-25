@@ -1,0 +1,1 @@
+<?php $admcp = new admcp($con); $admcp->show_onlyadmin(); $admcp->nban_user($explode['1']);?>

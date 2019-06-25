@@ -1,0 +1,1 @@
+<?php $admcp = new admcp($con); $admcp->close_topico($explode['1']);?>
